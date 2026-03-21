@@ -163,9 +163,9 @@ img{max-width:100%;display:block}
 .login-btn{
   display:inline-flex;align-items:center;justify-content:center;
   background:#03C75A;color:#fff;border:none;
-  padding:8px 20px;border-radius:6px;font-size:.85rem;font-weight:700;
-  cursor:pointer;transition:all .2s;white-space:nowrap;
-  font-family:'Noto Sans KR',sans-serif;letter-spacing:-.3px;
+  padding:12px 28px;border-radius:6px;font-size:.88rem;font-weight:700;
+  cursor:pointer;transition:background .2s;white-space:nowrap;
+  font-family:'Noto Sans KR',sans-serif;letter-spacing:-.2px;min-width:100px;
 }
-.login-btn:hover{background:#02b351;box-shadow:0 4px 14px rgba(3,199,90,.35)}
-@media(max-width:768px){.login-btn{padding:7px 16px;font-size:.8rem}}
+.login-btn:hover{background:#02b351}
+@media(max-width:768px){.login-btn{padding:10px 20px;font-size:.82rem;min-width:80px}}

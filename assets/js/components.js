@@ -19,10 +19,7 @@ const TripLog = {
         <a href="${base}" class="logo">트립<span>로그</span></a>
         <nav><ul class="nav" id="main-nav">${nav}</ul></nav>
         <div class="header-actions">
-          <button class="login-btn" onclick="alert('로그인 기능 준비 중입니다.')">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="white" style="margin-right:6px;vertical-align:-2px"><path d="M16 12.674L8.327 1H1v22h7V10.326L15.673 22H23V0h-7z"/></svg>
-            네이버 로그인
-          </button>
+          <button class="login-btn" onclick="alert('로그인 기능 준비 중입니다.')">로그인</button>
           <button class="hamburger" onclick="document.getElementById('main-nav').classList.toggle('open')">☰</button>
         </div>
       </div>
