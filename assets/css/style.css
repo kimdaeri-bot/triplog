@@ -158,3 +158,14 @@ img{max-width:100%;display:block}
 .text-center{text-align:center}
 .text-muted{color:var(--muted)}
 .divider{border:none;border-top:1px solid #eee;margin:32px 0}
+
+.header-actions{display:flex;align-items:center;gap:10px}
+.login-btn{
+  display:inline-flex;align-items:center;
+  background:var(--orange);color:#fff;border:none;
+  padding:8px 18px;border-radius:50px;font-size:.83rem;font-weight:700;
+  cursor:pointer;transition:all .2s;white-space:nowrap;
+  font-family:'Noto Sans KR',sans-serif;
+}
+.login-btn:hover{background:#e65100;transform:translateY(-1px);box-shadow:0 4px 12px rgba(255,111,0,.35)}
+@media(max-width:768px){.login-btn{padding:7px 14px;font-size:.78rem}}
