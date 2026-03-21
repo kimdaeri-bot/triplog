@@ -20,8 +20,8 @@ const TripLog = {
         <nav><ul class="nav" id="main-nav">${nav}</ul></nav>
         <div class="header-actions">
           <button class="login-btn" onclick="alert('로그인 기능 준비 중입니다.')">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin-right:5px;vertical-align:-2px"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-            로그인
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="white" style="margin-right:6px;vertical-align:-2px"><path d="M16 12.674L8.327 1H1v22h7V10.326L15.673 22H23V0h-7z"/></svg>
+            네이버 로그인
           </button>
           <button class="hamburger" onclick="document.getElementById('main-nav').classList.toggle('open')">☰</button>
         </div>
