@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kimdaeri-bot.github.io/triplog/sitemap.xml
