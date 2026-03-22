@@ -2,13 +2,14 @@
 const TripLog = {
   header(active, base='') {
     const links = [
-      {key:'destination', href:'destination/', label:'🌍 목적지'},
-      {key:'cruise',      href:'cruise/',      label:'🚢 크루즈'},
-      {key:'flight',      href:'flight/',      label:'✈️ 항공'},
-      {key:'hotel',       href:'hotel/',       label:'🏨 숙박'},
-      {key:'budget',      href:'budget/',      label:'💰 예산'},
-      {key:'tools',       href:'tools/',       label:'📱 도구·앱'},
-      {key:'health',      href:'health/',      label:'🏥 건강·안전'},
+      {key:'destination', href:'destination/',  label:'🌍 목적지'},
+      {key:'attractions', href:'attractions/',  label:'🎟️ 입장권'},
+      {key:'cruise',      href:'cruise/',       label:'🚢 크루즈'},
+      {key:'flight',      href:'flight/',       label:'✈️ 항공'},
+      {key:'hotel',       href:'hotel/',        label:'🏨 숙박'},
+      {key:'budget',      href:'budget/',       label:'💰 예산'},
+      {key:'tools',       href:'tools/',        label:'📱 도구·앱'},
+      {key:'health',      href:'health/',       label:'🏥 건강·안전'},
     ];
     const nav = links.map(l =>
       `<li><a href="${base}${l.href}" class="${active===l.key?'active':''}">${l.label}</a></li>`
@@ -39,6 +40,13 @@ const TripLog = {
             <li><a href="${base}destination/europe/">유럽</a></li>
             <li><a href="${base}destination/america/">아메리카</a></li>
             <li><a href="${base}destination/oceania/">오세아니아</a></li>
+          </ul></div>
+          <div class="footer-col"><h4>입장권·투어</h4><ul>
+            <li><a href="${base}attractions/">전체 입장권</a></li>
+            <li><a href="${base}attractions/italy/">🇮🇹 이탈리아</a></li>
+            <li><a href="${base}attractions/france/">🇫🇷 프랑스</a></li>
+            <li><a href="${base}attractions/japan/">🇯🇵 일본</a></li>
+            <li><a href="${base}attractions/spain/">🇪🇸 스페인</a></li>
           </ul></div>
           <div class="footer-col"><h4>여행 정보</h4><ul>
             <li><a href="${base}cruise/">크루즈</a></li>
