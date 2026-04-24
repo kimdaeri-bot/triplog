@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K4PPLZNG');</script>
+<!-- End Google Tag Manager -->
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>크루즈 뉴스 & 업계 동향 | 크루즈링크</title>
+  <meta name="description" content="크루즈 업계 최신 뉴스, 선사 소식, 목적지 가이드, 예약 팁을 크루즈링크가 한국어로 전달합니다.">
+  <link rel="canonical" href="https://www.cruiselink.co.kr/guide/news/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap">
+  <link rel="stylesheet" href="../../assets/css/style.css">
+  <link rel="icon" type="image/png" href="../../assets/images/favicon.png">
+  <link rel="shortcut icon" href="../../favicon.ico">
+  <style>
+    @media (max-width: 640px) {
+      .news-grid-wrap { grid-template-columns: 1fr !important; gap: 12px !important; }
+      .news-card { display: flex !important; flex-direction: row !important; align-items: stretch; border-radius: 8px; overflow: hidden; }
+      .news-card img { width: 90px !important; height: 90px !important; min-width: 90px; flex-shrink: 0; object-fit: cover; }
+      .news-card .ncp { padding: 10px 12px !important; display: flex; flex-direction: column; justify-content: center; }
+      .news-card .nct { -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
+    }
+    @media (min-width: 641px) and (max-width: 1024px) {
+      .news-grid-wrap { grid-template-columns: repeat(2, 1fr) !important; }
+    }
+  </style>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="크루즈 뉴스 & 업계 동향 | 크루즈링크">
+  <meta property="og:description" content="크루즈 업계 최신 뉴스, 선사 소식, 목적지 가이드, 예약 팁을 크루즈링크가 한국어로 전달합니다.">
+  <meta property="og:url" content="https://www.cruiselink.co.kr/guide/news/">
+  <meta property="og:image" content="https://www.cruiselink.co.kr/assets/images/cta-web.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:site_name" content="크루즈링크">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="크루즈 뉴스 & 업계 동향 | 크루즈링크">
+  <meta name="twitter:description" content="크루즈 업계 최신 뉴스, 선사 소식, 목적지 가이드, 예약 팁을 크루즈링크가 한국어로 전달합니다.">
+  <meta name="twitter:image" content="https://www.cruiselink.co.kr/assets/images/cta-web.png">
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4PPLZNG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+<div id="header"></div>
+<section style="background:linear-gradient(135deg,#1a237e,#283593);color:#fff;padding:70px 0;text-align:center">
+  <div class="container">
+    <h1 style="font-size:2rem;font-weight:900;margin:0 0 10px">📰 크루즈 뉴스 & 업계 동향</h1>
+    <p style="opacity:.85;margin:0">크루즈 업계 최신 소식과 전문 정보를 한국어로 제공합니다</p>
+  </div>
+</section>
+<div class="container" style="padding:44px 20px">
+  <div class="news-grid-wrap" style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px">
+    <a class="news-card" href="ponant-jazz-baltic-2027/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1468817814611-b7edf94b5d60?w=1200&q=80" alt="포낭, 재즈 테마 발틱 크루즈 2027 공개 — 헬싱키~베르겐 10박 11일" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#f3e5f5;color:#4a148c;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">럭셔리 크루즈</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">포낭, 재즈 테마 발틱 크루즈 2027 공개 — 헬싱키~베르겐 10박 11일</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-04-07</div>
+      </div>
+    </a>
+    <a class="news-card" href="celestyal-april-2026-all-cancelled/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1580541832626-2a7131ee809f?w=1200&q=80" alt="셀레스티알 크루즈, 4월 전체 항차 전면 취소 — 중동 억류 장기화" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#fce4ec;color:#b71c1c;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">항차 취소</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">셀레스티알 크루즈, 4월 전체 항차 전면 취소 — 중동 억류 장기화</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-04-06</div>
+      </div>
+    </a>
+    <a class="news-card" href="fred-olsen-ai-food-waste-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80" alt="프레드 올슨, AI 음식물 쓰레기 감축 솔루션 시범 운영" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8f5e9;color:#1b5e20;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">친환경·지속가능</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">프레드 올슨, AI 음식물 쓰레기 감축 솔루션 시범 운영 — 크루즈 업계 친환경 혁신</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-04-04</div>
+      </div>
+    </a>
+    <a class="news-card" href="cruise-orderbook-80-billion-2037/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="크루즈 선사, 2037년까지 신조선에 110조 원 투자 — 79척 발주 확정" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#fce4ec;color:#b71c1c;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">업계 동향</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">크루즈 선사, 2037년까지 신조선에 110조 원 투자 — 79척 발주 확정</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-04-03</div>
+      </div>
+    </a>
+    <a class="news-card" href="koningsdam-dry-dock-alaska-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="홀랜드 아메리카 코닝스담, 건선도크 마치고 신규 객실·시설 업그레이드 복귀" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e3f2fd;color:#0d47a1;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">홀랜드 아메리카 코닝스담, 건선도크 마치고 신규 객실·시설 업그레이드 복귀</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-04-02</div>
+      </div>
+    </a>
+    <a class="news-card" href="royal-caribbean-royal-one-credit-card-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="로열 캐리비안, 3개 브랜드 통합 'Royal ONE' 크레딧카드 출시" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e3f2fd;color:#0d47a1;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">로열 캐리비안, 3개 브랜드 통합 'Royal ONE' 크레딧카드 출시</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-04-01</div>
+      </div>
+    </a>
+    <a class="news-card" href="nclh-board-refresh-elliott-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=1200&q=80" alt="NCLH, 이사회 대폭 물갈이 — 엘리엇 매니지먼트와 협력 협약 체결" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#fce4ec;color:#b71c1c;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">업계 동향</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">NCLH, 이사회 대폭 물갈이 — 엘리엇 매니지먼트와 협력 협약 체결</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-31</div>
+      </div>
+    </a>
+    <a class="news-card" href="port-of-auckland-new-cruise-terminal-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=1200&q=80" alt="오클랜드 항구, 2700억 원 투자 신규 국제 크루즈 터미널 '테 와하로아' 론칭" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8f5e9;color:#1b5e20;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">항구 & 시설</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">오클랜드 항구, 2700억 원 투자 신규 국제 크루즈 터미널 '테 와하로아' 론칭</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-30</div>
+      </div>
+    </a>
+    <a class="news-card" href="carnival-fuel-efficiency-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=1200&q=80" alt="카니발 코퍼레이션, 연료 효율화로 연간 6,500억 원 절감 — 지속가능 크루즈 가속" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#fce4ec;color:#b71c1c;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">업계 동향</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">카니발 코퍼레이션, 연료 효율화로 연간 6,500억 원 절감 — 지속가능 크루즈 가속</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-29</div>
+      </div>
+    </a>
+    <a class="news-card" href="tui-celestyal-persian-gulf-cancellations-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1580541832626-2a7131ee809f?w=1200&q=80" alt="TUI·셀레스티알 크루즈, 페르시안 걸프 억류로 추가 항차 취소" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#fff3e0;color:#e65100;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">운항 변경</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">TUI·셀레스티알 크루즈, 페르시안 걸프 억류로 추가 항차 취소</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-28</div>
+      </div>
+    </a>
+    <a class="news-card" href="norwegian-luna-christening-miami-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="노르위전 루나, 마이애미 명명식 — 프리마 플러스 클래스 두 번째 신조선 공식 데뷔" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">노르위전 루나, 마이애미 명명식 — 프리마 플러스 클래스 두 번째 신조선 공식 데뷔</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-27</div>
+      </div>
+    </a>
+    <a class="news-card" href="oceania-allura-norfolk-overnight-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80" alt="오세아니아 알루라, 노퍽 첫 기항 — 24시간 오버나이트 정박으로 화제" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">오세아니아 알루라, 노퍽 첫 기항 — 24시간 오버나이트 정박으로 화제</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-26</div>
+      </div>
+    </a>
+    <a class="news-card" href="princess-cruises-alaska-experiences-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1200&q=80" alt="프린세스 크루즈, 2026 알래스카 4가지 신규 체험 프로그램 발표" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">프린세스 크루즈, 2026 알래스카 4가지 신규 체험 프로그램 발표</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-24</div>
+      </div>
+    </a>
+    <a class="news-card" href="norwegian-luna-atlantic-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="노르위전 루나, 대서양 횡단 완료 — 3월 23일 마이애미 첫 기항" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">노르위전 루나, 대서양 횡단 완료 — 3월 23일 마이애미 첫 기항</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-23</div>
+      </div>
+    </a>
+    <a class="news-card" href="virgin-voyages-sisters-at-sea-2027/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1599640842225-85d111c60e6b?w=1200&q=80" alt="버진 보야지스, 전 함대 동시 조우 '시스터스 앳 시' 날짜 확정 — 2027년 2월 역사적 이벤트" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">버진 보야지스, 전 함대 동시 조우 '시스터스 앳 시' 날짜 확정 — 2027년 2월 역사적 이벤트</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-22</div>
+      </div>
+    </a>
+    <a class="news-card" href="royal-caribbean-oasis-overboard-prank-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="로열캐리비안 오아시스호, 십대 장난으로 인한 허위 낙수 신고 — 90분 수색 소동" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#fce4ec;color:#b71c1c;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">안전·사고</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">로열캐리비안 오아시스호, 십대 장난으로 인한 허위 낙수 신고 — 90분 수색 소동</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-21</div>
+      </div>
+    </a>
+    <a class="news-card" href="florida-manatee-cruise-port-bill-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1200&q=80" alt="플로리다 신규 준설 제한법 서명 — 매너티 카운티 크루즈 항구 건설 사실상 무산" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#fce4ec;color:#b71c1c;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">업계 동향</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">플로리다 신규 준설 제한법 서명 — 매너티 카운티 크루즈 항구 건설 사실상 무산</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-20</div>
+      </div>
+    </a>
+    <a class="news-card" href="royal-caribbean-mariner-drydock-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="로열캐리비안 마리너 오브 더 시즈, 드라이독 마치고 신규 업그레이드 탑재 복귀" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">로열캐리비안 마리너 오브 더 시즈, 드라이독 마치고 신규 업그레이드 탑재 복귀</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-19</div>
+      </div>
+    </a>
+    <a class="news-card" href="msc-meraviglia-toilet-incident-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80" alt="MSC 메라비글리아, 승객 과실로 화장실 시스템 일시 중단 — 선내 규정 준수 당부" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">MSC 메라비글리아, 승객 과실로 화장실 시스템 일시 중단 — 선내 규정 준수 당부</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-18</div>
+      </div>
+    </a>
+    <a class="news-card" href="carnival-panorama-california-advisory-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="카니발 파노라마, 캘리포니아 출항 일정 대거 변경 — 멕시코 리비에라 기항지 순서 조정" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">카니발 파노라마, 캘리포니아 출항 일정 대거 변경 — 멕시코 리비에라 기항지 순서 조정</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-17</div>
+      </div>
+    </a>
+    <a class="news-card" href="ncl-spring-break-rules-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="NCL, 스프링 브레이크 승객에 선내 규정 공지 — 음주 연령·캐빈 규칙 등" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">NCL, 스프링 브레이크 승객에 선내 규정 공지 — 음주 연령·캐빈 규칙 등</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-16</div>
+      </div>
+    </a>
+    <a class="news-card" href="princess-cruises-princess-purpose-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1599640842225-85d111c60e6b?w=1200&q=80" alt="프린세스 크루즈, 2026년 4월 'Princess Purpose' 이니셔티브 전함 도입" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">프린세스 크루즈, 2026년 4월 'Princess Purpose' 이니셔티브 전함 도입</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-15</div>
+      </div>
+    </a>
+    <a class="news-card" href="royal-caribbean-cozumel-beach-club-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80" alt="로열캐리비안, 코수멜 신규 공공 해변 조성 — 로열 비치 클럽과 지역사회 상생" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">로열캐리비안, 코수멜 신규 공공 해변 조성 — 로열 비치 클럽과 지역사회 상생</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-14</div>
+      </div>
+    </a>
+    <a class="news-card" href="arabian-gulf-cruise-cancellations-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1200&q=80" alt="아라비아만 크루즈 대규모 취소 — MSC·TUI·셀레스티알 등 2025-26 시즌 운항 철수" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#fce4ec;color:#b71c1c;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">업계 동향</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">아라비아만 크루즈 대규모 취소 — MSC·TUI·셀레스티알 등 2025-26 시즌 운항 철수</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-13</div>
+      </div>
+    </a>
+    <a class="news-card" href="arabian-gulf-cruise-cancellations-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80" alt="아라비아만 크루즈 전면 취소" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">업계 동향</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">아라비아만 크루즈 전면 취소 — MSC·TUI·아로야 등 복수 선사 2025~26 시즌 철수</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-13</div>
+      </div>
+    </a>
+
+    <a class="news-card" href="virgin-voyages-ai-agents-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=1200&q=80" alt="버진 보야지스, AI 에이전트 1,500개 배포" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">업계 동향</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">버진 보야지스, AI 에이전트 1,500개 배포 — 크루즈 업계 AI 혁명 신호탄</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-11</div>
+      </div>
+    </a>
+    <a class="news-card" href="carnival-new-dining-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80" alt="카니발, 신규 다이닝 옵션 도입" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">카니발, 신규 다이닝 옵션 도입 — 선내 식음료 경험 업그레이드</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-11</div>
+      </div>
+    </a>
+    <a class="news-card" href="seadream-2027-destinations/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1200&q=80" alt="씨드림 요트 클럽, 2027 신규 기항지 공개" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">씨드림 요트 클럽, 2027 신규 기항지 공개 — 숨겨진 지중해·카리브해 탐험</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-11</div>
+      </div>
+    </a>
+    <a class="news-card" href="carnival-venezia-port-canaveral-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="카니발 베네치아, 포트 커내버럴 복귀 운항 재개" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">카니발 베네치아, 포트 커내버럴 복귀 운항 재개</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-10</div>
+      </div>
+    </a>
+    <a class="news-card" href="emerald-kaia-launch-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80" alt="에메랄드 카이아, 2026년 신규 취항 임박 — 소형 럭셔리 크루즈" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">에메랄드 카이아, 2026년 신규 취항 임박 — 소형 럭셔리 크루즈</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-10</div>
+      </div>
+    </a>
+    <a class="news-card" href="swan-hellenic-grand-voyage-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=80" alt="스완 헬레닉, 32박 그랜드 보야지 2개 노선 발표" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">스완 헬레닉, 32박 그랜드 보야지 2개 노선 발표</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-10</div>
+      </div>
+    </a>
+    <a class="news-card" href="royal-caribbean-beverage-package-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1544145945-f90425340c7e?w=1200&q=80" alt="로열 캐리비안, 음료 패키지서 코카콜라 프리스타일 기계 제외" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">로열 캐리비안, 음료 패키지서 코카콜라 프리스타일 기계 제외</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-09</div>
+      </div>
+    </a>
+    <a class="news-card" href="luxury-cruise-newbuilds-2026-2028/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80" alt="럭셔리 크루즈 신조선 붐 — 2026~2028년 36척 이상 출항 예정" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">업계 동향</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">럭셔리 크루즈 신조선 붐 — 2026~2028년 36척 이상 출항 예정</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-09</div>
+      </div>
+    </a>
+    <a class="news-card" href="msc-musica-brazil-2026-27/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=1200&q=80" alt="MSC 무지카, 브라질 3개 항구 신규 출발지 추가 — 2026~27 시즌" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">MSC 무지카, 브라질 3개 항구 신규 출발지 추가 — 2026~27 시즌</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-08</div>
+      </div>
+    </a>
+    <a class="news-card" href="cruise-industry-outlook-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=1200&q=80" alt="2026년 크루즈 업계 전망 — 역대 최대 승객 수 예상" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">업계 동향</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">2026년 크루즈 업계 전망 — 역대 최대 승객 수 예상</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-07</div>
+      </div>
+    </a>
+    <a class="news-card" href="alaska-cruise-2026-season/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=1200&q=80" alt="2026 알래스카 크루즈 시즌 완벽 가이드 — NCL·Princess·Holland America 주력" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">목적지 가이드</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">2026 알래스카 크루즈 시즌 완벽 가이드 — NCL·Princess·Holland America 주력</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-06</div>
+      </div>
+    </a>
+    <a class="news-card" href="mediterranean-cruise-2026-guide/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1523531294919-4bcd7c65e216?w=1200&q=80" alt="2026년 지중해 크루즈 완벽 가이드 — MSC·NCL·로열캐리비안 추천 노선" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">목적지 가이드</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">2026년 지중해 크루즈 완벽 가이드 — MSC·NCL·로열캐리비안 추천 노선</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-05</div>
+      </div>
+    </a>
+    <a class="news-card" href="explora-journeys-korea-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80" alt="익스플로라 저니, 2026년 아시아 노선 확대 — 한국 고객 주목" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">선사 소식</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">익스플로라 저니, 2026년 아시아 노선 확대 — 한국 고객 주목</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-04</div>
+      </div>
+    </a>
+    <a class="news-card" href="cruise-booking-tips-2026/" style="background:#fff;border:1px solid #eeeeee;border-radius:8px;overflow:hidden;display:block;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 20px rgba(0,0,0,.12)'" onmouseout="this.style.boxShadow=''">
+      <img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80" alt="2026 크루즈 예약 완벽 가이드 — 얼마나 미리? 어떻게 싸게?" style="width:100%;height:180px;object-fit:cover" loading="lazy">
+      <div class="ncp" style="padding:16px">
+        <div style="font-size:.75rem;background:#e8eaf6;color:#1a237e;padding:2px 8px;border-radius:10px;display:inline-block;margin-bottom:8px">여행 팁</div>
+        <div class="nct" style="font-weight:700;color:#1a237e;font-size:.95rem;line-height:1.5;margin-bottom:6px">2026 크루즈 예약 완벽 가이드 — 얼마나 미리? 어떻게 싸게?</div>
+        <div style="font-size:.82rem;color:#9e9e9e">2026-03-03</div>
+      </div>
+    </a></div>
+</div>
+<div id="footer"></div>
+<script src="../../assets/data/translations.js"></script>
+<script src="../../assets/js/api.js"></script>
+<script src="../../assets/js/components.js"></script>
+<script>
+  document.getElementById('header').innerHTML = Components.header('guide', '../../');
+  document.getElementById('footer').innerHTML = Components.footer('../../');
+</script>
+
+<div id="guideShareBarMount"></div>
+<script>document.getElementById('guideShareBarMount').outerHTML = Components.shareBar();</script>
+</body></html>
